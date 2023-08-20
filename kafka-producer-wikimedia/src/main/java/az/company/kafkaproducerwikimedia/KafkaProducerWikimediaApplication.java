@@ -19,6 +19,6 @@ public class KafkaProducerWikimediaApplication implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        wikimediaProducer.fetchDataWithRestTemplate();
+        wikimediaProducer.sendMessage();
     }
 }
