@@ -1,7 +1,7 @@
 ### Proyekt haqqında:
 Proyektin əsas məqsədi wikimedia'da baş verən data dəyişikliyini qeydə almaq,producer tərəfindən kafka topic'ə yazmaq,consumer tərəfindən isə bu dataları database'ə save etməkdir.
 Http üzərindən event handling üçün OkHttp kitabxanasından istifadə edilib.
-Qeyd:Wikimedianı internet üzərindəki ensiklopediay kimi düşünmək olar.Wikimedia'dakı data dəyişikliyini(event streaming) https://stream.wikimedia.org/v2/stream/recentchange linkindən izləmək olar.
+Qeyd:Wikimedianı internet üzərindəki ensiklopediya kimi düşünmək olar.Wikimedia'dakı data dəyişikliyini(event streaming) https://stream.wikimedia.org/v2/stream/recentchange linkindən izləmək olar.
 
 
 
